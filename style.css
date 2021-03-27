@@ -20,3 +20,19 @@ div.photo img {
     width: 10%;
     height: auto; 
 }
+
+body {
+    background-color:;
+    background-image: url("images/R9c8998ad88d1c7398a92a47e31999ed5.jpg");
+}
+
+.back {
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+    box-shadow: 1px 5px 5px;
+    display: block;
+  margin-left: auto; 
+  margin-right: auto;
+    width: 90%;
+
+}
