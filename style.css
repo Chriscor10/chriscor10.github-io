@@ -14,3 +14,9 @@ div.linkedin img {
     width: 2%;
     height: auto;
 }
+
+div.photo img {
+    border-radius: 50%;
+    width: 10%;
+    height: auto; 
+}
