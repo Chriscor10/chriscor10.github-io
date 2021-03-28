@@ -5,8 +5,8 @@ color: blue;
 
 
 div.linkedin img {
-    border-radius: 50%;
-    width: 2%;
+    border-radius: 10%;
+    width: 5%;
     height: auto;
 }
 
@@ -34,6 +34,12 @@ body {
 
 div.Languages img {
     border-radius: 50%;
-    width: 25%;
+    width: 20%;
     height: auto; 
+}
+
+div.email img {
+    border-radius: 10%;
+    width: 5%;
+    height: auto;
 }
