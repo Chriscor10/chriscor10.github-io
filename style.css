@@ -31,3 +31,9 @@ body {
     width: 90%;
 
 }
+
+div.Languages img {
+    border-radius: 50%;
+    width: 25%;
+    height: auto; 
+}
