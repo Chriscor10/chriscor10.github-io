@@ -5,14 +5,16 @@ color: blue;
 
 
 div.linkedin img {
+    float: left;
     border-radius: 10%;
-    width: 5%;
+    width: 15%;
     height: auto;
 }
 
 div.photo img {
+    margin-left: 1000px;
     border-radius: 50%;
-    width: 10%;
+    width: 15%;
     height: auto; 
 }
 
@@ -39,7 +41,17 @@ div.Languages img {
 }
 
 div.email img {
+    float: left;
     border-radius: 10%;
-    width: 5%;
+    width: 15%;
     height: auto;
+    margin-top:25px;
+    margin-right: 5px;
 }
+
+.social {
+    display: table;
+    clear: both;
+}
+
+  
