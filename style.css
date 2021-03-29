@@ -1,6 +1,20 @@
 h1 {
+text-align: center;
 font-weight: bold;
-color: blue;
+color: black;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    display: inline-block;
+    width: 500px;
+    height: auto;
+    padding: 2px;
+    margin-left: 425px;
 }
 
 
@@ -12,8 +26,8 @@ div.linkedin img {
 }
 
 div.photo img {
-    margin-left: 1000px;
-    border-radius: 50%;
+    margin-left: 575px;
+    border-radius: 10%;
     width: 15%;
     height: auto; 
 }
@@ -35,6 +49,7 @@ body {
 }
 
 div.Languages img {
+    margin-left: 550px;
     border-radius: 50%;
     width: 20%;
     height: auto; 
@@ -50,6 +65,7 @@ div.email img {
 }
 
 .social {
+    margin-left: 625px;
     display: table;
     clear: both;
 }
